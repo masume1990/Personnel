@@ -1,0 +1,12 @@
+C:\Users\Masume\Documents\Project\TestProject\rahavard\Personnel\Personnel.DataLayer\bin\Debug\netcoreapp3.1\Personnel.DataLayer.deps.json
+C:\Users\Masume\Documents\Project\TestProject\rahavard\Personnel\Personnel.DataLayer\bin\Debug\netcoreapp3.1\Personnel.DataLayer.dll
+C:\Users\Masume\Documents\Project\TestProject\rahavard\Personnel\Personnel.DataLayer\obj\Debug\netcoreapp3.1\Personnel.DataLayer.csprojAssemblyReference.cache
+C:\Users\Masume\Documents\Project\TestProject\rahavard\Personnel\Personnel.DataLayer\obj\Debug\netcoreapp3.1\Personnel.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Masume\Documents\Project\TestProject\rahavard\Personnel\Personnel.DataLayer\obj\Debug\netcoreapp3.1\Personnel.DataLayer.AssemblyInfo.cs
+C:\Users\Masume\Documents\Project\TestProject\rahavard\Personnel\Personnel.DataLayer\bin\Debug\netcoreapp3.1\Personnel.DataLayer.runtimeconfig.json
+C:\Users\Masume\Documents\Project\TestProject\rahavard\Personnel\Personnel.DataLayer\bin\Debug\netcoreapp3.1\Personnel.DataLayer.runtimeconfig.dev.json
+C:\Users\Masume\Documents\Project\TestProject\rahavard\Personnel\Personnel.DataLayer\bin\Debug\netcoreapp3.1\Personnel.DataLayer.pdb
+C:\Users\Masume\Documents\Project\TestProject\rahavard\Personnel\Personnel.DataLayer\obj\Debug\netcoreapp3.1\Personnel.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Masume\Documents\Project\TestProject\rahavard\Personnel\Personnel.DataLayer\obj\Debug\netcoreapp3.1\Personnel.DataLayer.dll
+C:\Users\Masume\Documents\Project\TestProject\rahavard\Personnel\Personnel.DataLayer\obj\Debug\netcoreapp3.1\Personnel.DataLayer.pdb
+C:\Users\Masume\Documents\Project\TestProject\rahavard\Personnel\Personnel.DataLayer\obj\Debug\netcoreapp3.1\Personnel.DataLayer.genruntimeconfig.cache
